@@ -1,3 +1,4 @@
+//minimum absolute difference pair
 import java.util.*;
 public class MinAbsDiffPairs{//time complexity-->0(logn)
     public static void main(String[] args){
